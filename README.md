@@ -1,31 +1,70 @@
-# Northwind Traders Analysis and Presentation 
+# 📊 Northwind Traders — Data Analytics Case Study
 
-## Overview
-This project analyzes and provides strategic insights for Northwind Traders, an international reseller and distributor of high-end foods and beverages. The analysis focuses on sales trends, customer profitability, and seasonal impacts to help the company increase revenue and reduce costs.
+> Business intelligence / data analytics project analyzing **Northwind Traders** (a fictional specialty foods & beverages distributor) to identify revenue trends, seasonality, and customer profitability — and translate findings into clear business recommendations.
 
-## Project Components
-1. **Analysis Report**: Contains key findings, data visualizations, and recommendations for increasing sales and operational efficiency. 
-2. **Presentation**: Summarizes findings in a concise and visually impactful format.
-3. **Video Briefing**: A 15-minute video explaining the analysis and recommendations for Northwind Traders. [Watch here](https://youtu.be/rkOpZNmUkvU)
+## Quick links
+- **Report (PDF):** `Northwind Traders Analysis.pdf`
+- **Video briefing (15 min):** https://youtu.be/rkOpZNmUkvU
 
-## Key Highlights
-- **Revenue Growth**: Increased by 25% from 2021 to 2023.
-- **Top Revenue Countries**: USA ($263,567), Germany ($245,085), Austria ($139,497).
-- **Seasonality Trends**: Summer (May–August) shows peak performance; August generates the highest profit.
-- **Top Product Categories**: Beverages and Seafood lead revenue, with beverages contributing 35% in 2023.
+---
 
-## Recommendations
-- **Activity-Based Costing (ABC)**: Identify low-return activities and optimize them for efficiency.
-- **Seasonality Optimization**: Focus on high-demand seasons with strategic planning.
-- **Customer Profitability Analysis**: Standardize and analyze client relationships for better risk management.
+## 📌 Overview
+This repository contains an end-to-end analysis for Northwind Traders with a focus on:
+- **Sales performance** over time (2021–2023)
+- **Market / country performance**
+- **Seasonality** and peak periods
+- **Customer profitability** insights
 
-## Deliverables
-- **PDF Report**: Combines analysis, key insights, and a revised Request for Proposal (RFP).
-- **PowerPoint Presentation**: High-level overview with detailed data visualizations.
-- **Video Briefing**: [Link](https://youtu.be/rkOpZNmUkvU)
+The goal is to provide **actionable recommendations** that help increase revenue and reduce operational cost.
 
-## Tools Used
+---
+
+## 🎯 Business questions
+This project is structured around common business stakeholder questions:
+1. Which markets/countries generate the most revenue?
+2. What seasonality patterns exist, and when should we invest more in sales/marketing?
+3. Which product categories drive revenue?
+4. Which customers are most profitable, and how should we prioritize accounts?
+
+---
+
+## 🔑 Key highlights (from the report)
+- **Revenue growth:** +25% from **2021 → 2023**
+- **Top revenue countries:**
+  - USA — **$263,567**
+  - Germany — **$245,085**
+  - Austria — **$139,497**
+- **Seasonality:** **May–August** is the strongest period; **August** produces the highest profit.
+- **Top categories:** **Beverages** and **Seafood** lead revenue; **Beverages = 35%** of 2023 revenue.
+
+---
+
+## ✅ Recommendations
+- **Activity-Based Costing (ABC):** Identify low-return activities and optimize for efficiency.
+- **Seasonality optimization:** Plan inventory and promotions around peak months (May–August).
+- **Customer profitability:** Segment customers and standardize account management to reduce risk and improve retention.
+
+---
+
+## 📦 Deliverables in this repo
+| Deliverable | Where to find it |
+|---|---|
+| Analysis report (PDF) | `Northwind Traders Analysis.pdf` |
+| Video briefing | https://youtu.be/rkOpZNmUkvU |
+
+> Note: This repository currently includes the final report and briefing link. If you’d like to review the underlying queries/workbooks, feel free to reach out.
+
+---
+
+## 🛠 Tools used
 - SQL
 - Tableau
 - Microsoft Excel
 - Microsoft PowerPoint
+
+---
+
+## ✍️ Author
+**dhrxv8** — Data Science student (graduating soon)
+
+If you’re a recruiter/hiring manager and would like additional context or the working files, please contact me via GitHub.
