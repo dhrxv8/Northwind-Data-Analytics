@@ -1,4 +1,4 @@
-# 📊 Northwind Traders — Data Analytics Case Study
+# 📊 Northwind Traders - Data Analytics Case Study
 
 > Business intelligence / data analytics project analyzing **Northwind Traders** (a fictional specialty foods & beverages distributor) to identify revenue trends, seasonality, and customer profitability — and translate findings into clear business recommendations.
 
